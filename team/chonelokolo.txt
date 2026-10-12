@@ -1,0 +1,7 @@
+Full name: Chukwunyelu Uk Gabriel T. Okolo
+GitHub username: chonel okolo
+Group (1-4): 1 
+Member # (1-6): 2
+Task: ( Frontend , UI and page layout)
+One DOM/JS bug I now know how to spot: Running document.querySelector before the page loads, so it returns null and the event listener never attaches.
+One thing I bring to this team: Clear documentation , assist from coding , respect as well and good vibes, so everyone is happy and healthy.
