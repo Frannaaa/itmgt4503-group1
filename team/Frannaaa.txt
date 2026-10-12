@@ -1,0 +1,7 @@
+Full name: Francine Young de Asis
+GitHub username: Frannaaa
+Group (1-4): 1
+Member # (1-6): 1
+Task: Project Coordination
+One DOM/JS bug I now know how to spot: A mismatched element ID causing getElementById() to return null.
+One thing I bring to this team: Leadership, coordination, and clear communication.
