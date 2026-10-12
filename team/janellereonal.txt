@@ -1,0 +1,7 @@
+Full name: Janelle Reonal
+GitHub username: janellereonal
+Group (1-4): 1
+Member # (1-6): 3
+Task: Frontend (UI and page layout)
+One DOM/JS bug I now know how to spot: Running document.querySelector before the page loads, so it returns null and the event listener never attaches.
+One thing I bring to this team: Clear documentation, so everyone knows what's been done and what's next.
